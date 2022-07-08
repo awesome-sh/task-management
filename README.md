@@ -20,8 +20,12 @@ https://task-manager-lac.vercel.app
 - Core: React
   
 - Styling: Styled Components
+
+- State Management: Context API
   
-- State Management: Web (Local Storage), Android App (Realm, SharedPreferences)
+- Database: Web (Local Storage), Android App (Realm, SharedPreferences)
+
+- Vercel (https://vercel.app), Static Web Release
 
 
 ### Features
