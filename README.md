@@ -4,6 +4,8 @@ Public Task Management WebApp Release Repository.
 
 레스너들을 위한 똑똑한 일정관리
 
+하이브리드 웹앱 기술검토를 목적으로 스터디 중 기획부터 생각주머니가 디벨롭되어 진행하게 된 프로젝트 🤣
+
 Develop URL
 https://task-manager-lac.vercel.app
 
