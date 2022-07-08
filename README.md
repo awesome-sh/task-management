@@ -7,6 +7,11 @@ Public Task Management WebApp Release Repository.
 Develop URL
 https://task-manager-lac.vercel.app
 
+최종배포 : Android Release를 목표로 함
+
+### Preview
+![screenshot-task-manager-lac vercel app-2022 07 08-15_14_14](https://user-images.githubusercontent.com/46561976/177928585-43271363-0a96-4e30-bc30-9e3e42a4840b.png)
+
 
 ### Develop Env
 
